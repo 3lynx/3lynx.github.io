@@ -1,0 +1,36 @@
+.navbar {
+	padding: 0;
+}
+.navbar-brand {
+    padding-top: .1562rem;
+    padding-bottom: .1562rem;
+    }
+.navbar-brand img {
+	height: 65px;
+	width: 100%;
+}
+
+.header {
+	height:689px;
+	background: url("../img/bg.jpg") no-repeat
+	center;
+	background-size: cover;
+	color: white;
+	text-align: center;
+}
+
+.lynx1 img {
+	padding-top: 9px;
+	width: 100%;
+
+}
+
+.cont1 {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.cont123 {
+	height: 300px;
+	background-color: #333;
+	
+}
