@@ -18,6 +18,14 @@
 	color: white;
 	text-align: center;
 }
+.headtitle {
+text-shadow: 1px 1px #11211c4d;
+margin-top: 350px;
+}
+
+body {
+	background-color: #f7f7f7;
+}
 
 .lynx1 img {
 	padding-top: 9px;
@@ -29,8 +37,29 @@
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
+
+
+
 .cont123 {
 	height: 300px;
 	background-color: #333;
+	
+}
+
+.footer {
+	margin-top: 3rem;
+	padding: 3rem 0;
+	color: white;
+
+}
+
+.copyright {
+	padding: 0.7rem;
+	background-color: #272b2f;
+	text-align: center;
+	color: #7d7979;
+}
+.copyright img {
+	height: 65px;
 	
 }
